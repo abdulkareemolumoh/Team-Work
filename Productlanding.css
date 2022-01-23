@@ -1,0 +1,147 @@
+
+body {
+    background-color: honeydew;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    font-family: 'Lato', sans-serif;
+    border-radius: 5px;
+    
+}
+
+header {
+  display: flex;
+  width: 100%;
+  position: fixed;
+  top: 0;       
+  padding: 10px 0;
+  background-color: indigo;
+}
+.links {
+    display: flex;
+    margin-left: 600px;
+    justify-content: space-evenly;
+}
+a {
+    color: black; 
+    text-decoration: none;
+
+}
+.a1 {
+ margin-right: 100px;
+}
+.a2 {
+    margin-right: 100px;
+    
+}
+#input {
+    text-align: center;
+    margin-top: ;
+    
+}
+input[type=submit] {
+    border: yellow 1px solid;
+    background-color: yellow;
+    cursor: pointer;
+    padding: 10px 10px 10px 10px;
+    font-weight: 900;
+}
+input[type=email] {
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+    
+}
+#description {
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#icon {
+    margin-top: 65px;
+    color: goldenrod;
+}
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#flex-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+    font-size: 20px;
+    margin-bottom: 5rem;
+    
+}
+#box1 {
+    margin-right: 10px;
+    border: black 1px solid;
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+   
+}
+#box2 {
+    margin-right: 10px; 
+    margin-left: 10px;
+    border: black 1px solid;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+}
+#box3 {
+    margin-left: 10px;
+    border: black 1px solid;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+}
+#head3 {
+ margin-top: -5px;
+ background-color: blanchedalmond;
+ border-bottom: 2px black solid;
+ width: 100%;
+ font-size: 20px;
+}
+#heah1 {
+
+}
+button {
+  border: yellow 1px solid;
+  padding: 10px 20px 10px 20px;
+  background-color: yellow;
+  font-size: 20px;
+}
+ol {
+    list-style-type: none;
+    font-size: 15px;
+}
+
+#foot {
+    margin-left: 195px;
+    margin-right: 195px;
+    background-color: lightgray;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    bottom: 0;
+    position: fixed;
+}
+#link2 {
+    display: flex;
+    margin-left: 700px;
+    margin-right: 30px;
+    justify-content: space-between;
+    margin-top: -10px;
+}
+#foot-p {
+    margin-left: 690px;
+    margin-top: 3px;
+    color: gray;
+}
+#h-p {
+    margin-top: 40px;
+    margin-left: 150px;
+}
+#pi {
+    margin-top: -15px;
+}
