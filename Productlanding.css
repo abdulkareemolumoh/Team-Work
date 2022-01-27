@@ -2,7 +2,7 @@
 body {
     background-color: honeydew;
     padding-top: 60px;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
     font-family: 'Lato', sans-serif;
     border-radius: 5px;
     
@@ -118,13 +118,13 @@ ol {
 }
 
 #foot {
+    
     margin-left: 195px;
     margin-right: 195px;
     background-color: lightgray;
     padding-top: 30px;
     padding-bottom: 20px;
-    bottom: 0;
-    position: fixed;
+    
 }
 #link2 {
     display: flex;
@@ -134,7 +134,8 @@ ol {
     margin-top: -10px;
 }
 #foot-p {
-    margin-left: 690px;
+    
+    margin-left: 660px;
     margin-top: 3px;
     color: gray;
 }
